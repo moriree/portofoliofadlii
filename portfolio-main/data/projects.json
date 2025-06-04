@@ -1,0 +1,26 @@
+[
+    {
+        "title": "HeartFitness Monitoring System with PPG Sensor (MAX30102) and Accelerometer (MPU6050) Based on ESP8266 and Blynk Platform",
+        "year": "2024",
+        "role": "Engineer",
+        "description": "Developed a fitness monitoring system using the MAX30102 PPG sensor and MPU6050 accelerometer, integrated with the ESP8266 microcontroller. The system tracks heart rate and physical activity in real time and transmits data to the Blynk platform for remote monitoring via smartphone. Designed for lightweight IoT applications in personal health tracking and wearable technology.",
+        "image": "images/Biomedic.png",
+        "link": "https://example.com/Biomedical"
+    },
+    {
+        "title": "Line Follower Robot",
+        "year": "2024",
+        "role": "Engineer Progamming",
+        "description": "Developed an autonomous line follower robot using infrared sensors and a microcontroller (Arduino/ESP32). The robot detects and follows a predefined path marked by a line on the floor, implementing real-time sensor data processing and motor control algorithms. Designed to demonstrate basic principles of robotics, embedded systems, and control logic.",
+        "image": "images/linefollower.png",
+        "link": "https://example.com/assembly-optimization"
+    },
+	{
+        "title": "Penelitian Skripsi Bachelor: Prototype Of Automatic Monitoring And Control System In Liquid Wastewater Treatment Plant (Ipal) In Tofu Production",
+        "year": "2025 - Present",
+        "role": "Engineer",
+        "description": "Designed and implemented a prototype system for real-time monitoring and control of liquid wastewater treatment in tofu production using sensors (pH, turbidity), microcontrollers (ESP32/PLC), and automation logic. The system enables efficient management of effluent quality through automated feedback control and data visualization, contributing to environmentally sustainable tofu industry practices.",
+        "image": "images/wastewater.png",
+        "link": "https://example.com/waste-water"
+	}
+]

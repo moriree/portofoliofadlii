@@ -1,0 +1,25 @@
+[
+    {
+        "company": "Pt Pertamina (Persero)",
+		"logo":"images/pertamina-logo.png",
+        "position": "Intern",
+        "year": "2025 - Present",
+        "description": "Assisted in automation and control system projects, focusing on IoT-based monitoring, PLC programming, and SCADA system support. Utilized MATLAB for data analysis and contributed to improving operational efficiency in industrial processes."
+    },
+	{
+        "company": "MySkill Academy",
+		"logo":"images/MySkill-logo.png",
+        "position": "Programming Trainee",
+        "year": "Jan 2023 - Mar 2024",
+        "description": "Completed an intensive programming bootcamp focused on [Python/Web Development/Data Science/etc.]. Developed hands-on projects using version control (Git), APIs, and basic algorithms. Collaborated in team-based coding assignments and presented a final capstone project. Gained proficiency in [tools/tech: e.g., HTML, CSS, JavaScript, Python, or SQL]."
+    },
+    {
+        "company": "Marketing Management ",
+		"logo":"images/unity-logo.png",
+        "position": "KOL",
+        "year": "2019 - Present",
+        "description": "Collaborated with the marketing team to promote brand visibility through social media campaigns. Created strategic content to engage targeted audiences and supported digital marketing initiatives. Provided insights on audience behavior and contributed to campaign performance analysis."
+    }
+    
+
+]

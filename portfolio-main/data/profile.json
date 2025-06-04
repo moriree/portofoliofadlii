@@ -1,0 +1,34 @@
+{
+    "name": "Fadli Hastin Al'Anshorry- Electronic Engineering ",
+    "description": "A highly motivated Electrical Engineering student with a strong focus on Internet of Things (IoT) and microcontroller-based systems. Experienced in designing and implementing embedded systems for automation and remote monitoring. Proficient in using SCADA and PLC software for industrial control applications, as well as MATLAB for simulation, data analysis, and system modeling. Passionate about integrating smart technologies to solve real-world engineering problems, with a solid foundation in both hardware and software aspects of control systems.",
+    "profileImage": "images/profile-fadlii.png",
+    "email": "fadlihastin9@gmail.com",
+    "phone": "+62 (857) 994-69344",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://linkedin.com/in/fadlihastinalanshorry"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/moriree"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/fdliansh"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV_Fadli Hastin A.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 85},
+		{"name": "Printed Circuit Board Designs", "icon": "fas fa-c", "level": 90},
+		{"name": "Web Programming", "icon": "fab fa-js", "level": 70},
+		{"name": "PLC SCADA", "icon": "fas fa-pc", "level": 70},
+		{"name": "Foreign Languages", "icon": "fas fa-language", "level": 70}
+    ]
+}
